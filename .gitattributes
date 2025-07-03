@@ -1,0 +1,15 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Explicitly set line endings for specific file types
+*.java text eol=lf
+*.xml text eol=lf
+*.md text eol=lf
+
+# Treat binary files as-is
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.jar binary

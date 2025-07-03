@@ -1,0 +1,11 @@
+{
+  "name": "plwebsite",
+  "version": "1.0.0",
+  "description": "Personalized Learning Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd PLWebsite-main/Frontend && npm install && npm start"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
